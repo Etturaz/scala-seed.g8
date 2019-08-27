@@ -1,4 +1,4 @@
-This is a [Giter8][g8] template for Scala copied from [scala/scala-seed.g8](https://github.com/scala/scala-seed.g8) 
+This is a Giter8 template for a VSCodium Scala set-up with Metals, Bloop and Coursier, based on [scala/scala-seed.g8](https://github.com/scala/scala-seed.g8) 
 
 ```
 sbt new Etturaz/scala-seed.g8
