@@ -10,7 +10,7 @@ val semanticdbVersion = "$semanticdb_version$"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "$name;format="camel"$",
+    name := "$name;format="Camel"$",
     libraryDependencies ++= Seq(
       scalaTest % scalaTestVersion % Test
     ),
