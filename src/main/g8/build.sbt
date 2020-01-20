@@ -10,7 +10,7 @@ ThisBuild / organizationName := "Etturaz"
 lazy val root = (project in file("."))
   .settings(
     name := "$name;format="Camel"$",
-   libraryDependencies ++= Seq(scalaTest % scalaTestVersion % Test,
+    libraryDependencies ++= Seq(scalaTest % scalaTestVersion % Test,
                                scalaCheck % scalaCheckVersion % Test),
 
     scalacOptions ++= Seq("-Yrangepos", "-unchecked", "-deprecation", "-feature")
