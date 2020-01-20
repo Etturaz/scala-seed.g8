@@ -8,7 +8,4 @@ object Dependencies {
   //ScalaCheck
   lazy val scalaCheck = "org.scalacheck" %% "scalacheck"
   lazy val scalaCheckVersion = "$scalacheck_version$"
-  
-  //SemanticDB
-  //lazy val semanticdbVersion = "$semanticdb_version$"
 }
