@@ -10,5 +10,5 @@ object Dependencies {
   lazy val scalaCheckVersion = "$scalacheck_version$"
   
   //SemanticDB
-  lazy val semanticdbVersion = "$semanticdb_version$"
+  //lazy val semanticdbVersion = "$semanticdb_version$"
 }
